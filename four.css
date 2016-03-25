@@ -1,0 +1,16 @@
+
+.content{
+	margin: 0 auto;
+	width:328px;
+	height: 324px;
+	border:1px solid #000;
+}
+
+.content div {
+	width: 80px;
+	height: 80px;
+	float: left;
+	border-left: 1px #000 solid;
+	border-right:1px #000 solid;
+	border-bottom: 1px #000 solid;
+}
